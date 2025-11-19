@@ -51,6 +51,7 @@ The generated figure (`result.png`) displays the network state during the proces
 
 ## 5.📚 References
 •	Eshraghian, J. K., et al. "Training Spiking Neural Networks Using Lessons From Deep Learning." Proceedings of the IEEE (2023).
+
 •	Vogels, T. P., et al. "Inhibitory plasticity balances excitation and inhibition." Science (2011).
 
 ## 6. Reproduction
