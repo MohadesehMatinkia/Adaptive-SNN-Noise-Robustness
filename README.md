@@ -49,14 +49,13 @@ The generated figure (`result.png`) displays the network state during the proces
 
 ![Analysis Figure](result.png)
 
-## 5. Reproduction
+## 5.📚 References
+•	Eshraghian, J. K., et al. "Training Spiking Neural Networks Using Lessons From Deep Learning." Proceedings of the IEEE (2023).
+•	Vogels, T. P., et al. "Inhibitory plasticity balances excitation and inhibition." Science (2011).
+
+## 6. Reproduction
 To reproduce these findings, execute the provided script. The code handles dataset acquisition and model training automatically.
 
 ```bash
 pip install snntorch torch torchvision matplotlib
 python main.py
-
-
-📚 References
-•	Eshraghian, J. K., et al. "Training Spiking Neural Networks Using Lessons From Deep Learning." Proceedings of the IEEE (2023).
-•	Vogels, T. P., et al. "Inhibitory plasticity balances excitation and inhibition." Science (2011).
