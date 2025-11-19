@@ -55,3 +55,8 @@ To reproduce these findings, execute the provided script. The code handles datas
 ```bash
 pip install snntorch torch torchvision matplotlib
 python main.py
+
+
+📚 References
+•	Eshraghian, J. K., et al. "Training Spiking Neural Networks Using Lessons From Deep Learning." Proceedings of the IEEE (2023).
+•	Vogels, T. P., et al. "Inhibitory plasticity balances excitation and inhibition." Science (2011).
